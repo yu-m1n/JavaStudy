@@ -1,6 +1,6 @@
 package chap01;
 
-public class exam02 { //RunStatementExample.java
+public class exam02 { //자바 소스 파일 RunStatementExample.java
     public static void main(String[] args){
         int x = 1; //변수 x 선언하고 1을 저장
         int y = 2; //변수 y 선언하고 2를 저장

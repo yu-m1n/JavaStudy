@@ -4,7 +4,7 @@ package chap01;
 작성일 2024.05.07
 */
 
-public class exam01 { //Hello.java
+public class exam01 { //주석 사용하기 Hello.java
     //프로그램 실행 진입점
     public static void main(String[] args){
         //콘솔에 진행하는 실행문
