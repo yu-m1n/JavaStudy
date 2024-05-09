@@ -1,4 +1,4 @@
-package chap02;
+package chap02.sec01;
 
 public class exam04 { //변수 사용 범위 VariablaScopeExample.java
     public static void main(String[] args) {

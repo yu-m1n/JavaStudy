@@ -1,4 +1,4 @@
-package chap02;
+package chap02.sec01;
 
 public class exam02 { //변수 사용 VariableExample.java
 

@@ -1,4 +1,4 @@
-package chap02;
+package chap02.sec01;
 
 public class exam01 { //변수 초기화 VariableInitializationExample.java
     public static void main(String[] args){

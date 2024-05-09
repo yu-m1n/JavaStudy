@@ -1,4 +1,4 @@
-package chap02;
+package chap02.sec01;
 
 public class exam03 { //변수값 교환 VariableExchangeExample.java
     public static void main(String[] args) {
