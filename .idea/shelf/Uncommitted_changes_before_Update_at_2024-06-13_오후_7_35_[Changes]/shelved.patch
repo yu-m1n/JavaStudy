@@ -1,0 +1,106 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e3d311ec-272f-4256-b735-0d3e7674507f\" name=\"Changes\" comment=\"혼공자 공부 기록\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2g88296ma6eQnmHnj1CG2W29rOe\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.exam01.executor\": \"Run\",\r\n    \"Application.exam02.executor\": \"Run\",\r\n    \"Application.exam03.executor\": \"Run\",\r\n    \"Application.exam04.executor\": \"Run\",\r\n    \"Application.exam05.executor\": \"Run\",\r\n    \"Application.exam06.executor\": \"Run\",\r\n    \"Application.exam07.executor\": \"Run\",\r\n    \"Application.exam08.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/work/LikeLion 12th\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e3d311ec-272f-4256-b735-0d3e7674507f\" name=\"Changes\" comment=\"\" />\r\n      <created>1715067642007</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1715067642007</updated>\r\n      <workItem from=\"1715587540758\" duration=\"18000\" />\r\n      <workItem from=\"1715591614561\" duration=\"43000\" />\r\n      <workItem from=\"1715591706214\" duration=\"45000\" />\r\n      <workItem from=\"1715591767266\" duration=\"619000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"혼공자 공부 기록\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715092831022</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715092831023</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"혼공자 공부 기록\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715171492374</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715171492374</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"혼공자 공부 기록\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715175604245</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715175604245</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"혼공자 공부 기록\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715175853557</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715175853557</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"혼공자 공부 기록\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715235378383</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715235378383</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"혼공자 공부 기록\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715258693302</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715258693302</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"혼공자 공부 기록\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715414585184</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715414585184</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"혼공자 공부 기록\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"혼공자 공부 기록\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,14 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e3d311ec-272f-4256-b735-0d3e7674507f" name="Changes" comment="혼공자 공부 기록" />
++    <list default="true" id="e3d311ec-272f-4256-b735-0d3e7674507f" name="Changes" comment="혼공자 공부 기록">
++      <change afterPath="$PROJECT_DIR$/src/chap02/sec03/exam01.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/chap02/sec03/exam02.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/chap02/sec03/exam04.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/chap02/sec03/exam05.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/chap02/sec03/exam06.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -32,30 +39,30 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.exam01.executor": "Run",
+-    "Application.exam02.executor": "Run",
+-    "Application.exam03.executor": "Run",
+-    "Application.exam04.executor": "Run",
+-    "Application.exam05.executor": "Run",
+-    "Application.exam06.executor": "Run",
+-    "Application.exam07.executor": "Run",
+-    "Application.exam08.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/work/LikeLion 12th",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.exam01.executor&quot;: &quot;Run&quot;,
++    &quot;Application.exam02.executor&quot;: &quot;Run&quot;,
++    &quot;Application.exam03.executor&quot;: &quot;Run&quot;,
++    &quot;Application.exam04.executor&quot;: &quot;Run&quot;,
++    &quot;Application.exam05.executor&quot;: &quot;Run&quot;,
++    &quot;Application.exam06.executor&quot;: &quot;Run&quot;,
++    &quot;Application.exam07.executor&quot;: &quot;Run&quot;,
++    &quot;Application.exam08.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/work/LikeLion 12th&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -74,7 +81,9 @@
+       <workItem from="1715587540758" duration="18000" />
+       <workItem from="1715591614561" duration="43000" />
+       <workItem from="1715591706214" duration="45000" />
+-      <workItem from="1715591767266" duration="619000" />
++      <workItem from="1715591767266" duration="1242000" />
++      <workItem from="1715860468742" duration="7000" />
++      <workItem from="1718270456195" duration="3858000" />
+     </task>
+     <task id="LOCAL-00001" summary="혼공자 공부 기록">
+       <option name="closed" value="true" />
+@@ -132,7 +141,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1715414585184</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="혼공자 공부 기록">
++      <option name="closed" value="true" />
++      <created>1715593623135</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1715593623135</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
