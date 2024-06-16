@@ -5,5 +5,15 @@ public class exam02 { //강제 타입 변환 CastingExample.java
     public static void main(String[] args) {
         int intValue = 40032;
         char charValue = (char)intValue; //()안에 들어가는 타입은 나누는 단위
+
+        System.out.println(charValue);
+
+        long longValue = 500;
+        intValue = (int)longValue;
+        System.out.println(intValue);
+
+        double doubleValue = 3.14;
+        intValue = (int)doubleValue;
+        System.out.println(intValue);
     }
 }
